@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "migps-b1f29": {
+      "hosting": {
+        "app": [
+          "migps-b1f29"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "migps-b1f29"
+  }
+}
